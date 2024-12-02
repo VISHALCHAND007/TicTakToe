@@ -52,7 +52,7 @@ function App(): React.JSX.Element {
   return (
     <SafeAreaView>
       <StatusBar />
-        <Text style={[styles.textWhite, styles.headingTxt]}>Tic Tac Toe</Text>
+        <Text style={[styles.textWhite, styles.headingTxt]}>Tic-Tac-Toe</Text>
     </SafeAreaView>
   );
 }
